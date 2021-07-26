@@ -1,12 +1,13 @@
 Config = {
-    requiredCops = 2,
+    requiredCops = 0,
     npcFightOnReject = true,
     account = 'black_money', --change to 'money' if you want
     drugs = {
-        ['weed_pooch'] = 1500,
-        ['opium_pooch'] = 3100,
-        ['coke_pooch'] = 3700,
-        ['meth_pooch'] = 3400,
+        ['marijuana'] = 150,
+        ['coke'] = 150,
+        ['heroin'] = 150,
+        ['meth'] = 150,
+        ['lsd'] = 150,
         --add as much as you want
     },
     cityPoint = vector3(0.0, -500.0, 100.0), --set cityPoint to false to disable
