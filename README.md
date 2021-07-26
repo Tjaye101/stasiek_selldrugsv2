@@ -2,8 +2,6 @@
 Added items for esx_drugs updated one 
 https://forum.cfx.re/t/release-esx-esx-drugs-update-version/903219
 
-----
-
 # Owners Words
 
 # stasiek_selldrugsv2
