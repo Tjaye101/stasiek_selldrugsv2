@@ -1,3 +1,8 @@
+
+Added items for esx_drugs updated one 
+https://forum.cfx.re/t/release-esx-esx-drugs-update-version/903219
+
+
 # stasiek_selldrugsv2
 Second version of Fivem selldrugs script
 Only you had to do is translate it ;)
